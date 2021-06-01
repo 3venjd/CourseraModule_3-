@@ -1,0 +1,27 @@
+.navbar{
+    background-color: lightgray;
+}
+
+
+button.navbar-toggler > #navbarNav.open:hover{
+    background: white;
+} 
+
+h1 {
+    margin: 20px;
+}
+
+nav div div div div{
+    background-color: white;
+    border: .5px solid #000;
+
+    
+}
+nav div div div div:nth-child(1){
+    margin-top: 10px;
+}
+
+
+#f1container, #f2container, #f3container{
+    background-color: lightgray;
+}
